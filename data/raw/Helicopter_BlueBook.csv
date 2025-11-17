@@ -1,0 +1,103 @@
+Helicopter Description,Company,Max speed. Knots. S.L.,Cruise. Knots. S.L.,VNE. Knots @ gross,ROC fpm. @ gross S.L.,Range. std tanks. S.L.N.M.,Crusie time (hrs/min),Fuel Avg. gph @ cruise,Fuel std. usable gal.,Fuel opt. gal.,Gross Internal Load (lbs),Gross External Load (lbs),Empty Weight (lbs),External load limit (lbs),Service ceiling all eng's max gross std day,HIGE max grpss std day,HOGE max gross std day,M/R blades dia. (ft/in),Number of Blades,Blade Material,Rotot Type,Storage Width (ft/in),Length (ft/in),Height (ft/in)
+A109,Agusta Aerospace Corporation,150,129,167,2,251,2/15,56,145,,5,,3,2200,15,10,7,36/1,4,metal,F/Artic,9/6,43/7,10/9
+A109A,Agusta Aerospace Corporation,152,143,161,1,297,3/7,62,146,,6,,3,2000,15,8,5,36/1,4,metal,F/Artic,9/6,43/7,10/9
+A109A II,Agusta Aerospace Corporation,,147,168,2,333,2/57,62,146,,6,,3,2000,15,8,5,36/1,4,metal,F/Artic,9/5,42/10,10/10
+A109-MKII Plus,Agusta Aerospace Corporation,,152,168,2,440,4/35,,145,,6,,3,,15,12,9,36/1,4,metal,F/Artic,,,
+430,"Bell Helicopter, A Textron Company",150,139,150,2,383,,80,247,48,9,9300,5,3500,18,11,9,42/0,4,comp,,11/3,44/1,11/2
+412,"Bell Helicopter, A Textron Company",,122,140,1,194,1/48,118,330,382,12,11900,6,4500,16,4,2,46/0,4,comp,SRH,9/4,56/2,10/10
+407,"Bell Helicopter, A Textron Company",140,128,140,2,312,,42,126,20,5,5500,3,2646,19,12,10,35/0,4,,,7/2,41/8,11/8
+230,"Bell Helicopter, A Textron Company",150,137,150,1,379,,83,246,294,8,8400,5,2800,15,12,7,42/0,2,met/fibr,,11/4,50/6,12/1
+222,"Bell Helicopter, A Textron Company",144,132,152,2,343,,65,181,229,8,,5,3500,14,10,6,39/9,2,metal,SRT,9/1,47/8,11/8
+222B,"Bell Helicopter, A Textron Company",146,141,,2,307,,,187,235,8,,5,,18,10,9,42/0,2,met/fibr,,11/4,50/3,11/8
+222UT,"Bell Helicopter, A Textron Company",138,136,,2,335,,,246,311,8,,5,,18,10,9,42/0,2,met/fibr,,11/4,49/11,12/0
+214ST,"Bell Helicopter, A Textron Company",,137,130,,421,3/0,142,412,,17,17200,10,8000,7,10,,52/0,2,comp,SRH,9/6,62/3,15/11
+14B-1,"Bell Helicopter, A Textron Company",100,,100,2,109,,150,204,379,12,15000,8,8000,,13,2,50/0,2,metal,SRT,9/3,60/9,13/6
+214B,"Bell Helicopter, A Textron Company",140,,140,2,172,,150,204,379,14,15000,8,8000,20,15,10,50/0,2,metal,SRT,9/3,60/9,13/10
+212,"Bell Helicopter, A Textron Company",100,91,100,1,226,,90,216,395,11,11200,6,5000,14,11,,48/0,2,metal,SRT,8/8,57/3,13/1
+206L-3,"Bell Helicopter, A Textron Company",130,110,,1,305,3/0,,110,,4,4250,2,2000,20,16,5,37/0,2,metal,SRT,7/4,42/8,10/6
+206L-1,"Bell Helicopter, A Textron Company",113,110,130,1,294,,32,97,,4,4250,2,2000,19,12,5,37/0,2,metal,SRT,7/5,42/8,10/4
+206L,"Bell Helicopter, A Textron Company",110,113,110,1,304,,31,98,,4,4000,2,2000,13,12,5,37/0,2,metal,SRT,7/5,42/5,10/4
+206B III,"Bell Helicopter, A Textron Company",117,116,122,1,348,,26,91,,3,3350,2,1500,14,13,9,33/4,2,metal,SRT,9/6,39/1,11/8
+206B,"Bell Helicopter, A Textron Company",117,116,122,1,300,,25,74.5,,3,3350,2,1500,14,11,6,33/4,2,metal,SRT,9/6,39/1,11/8
+206A (C20 eng),"Bell Helicopter, A Textron Company",,118,130,2,313,,25,74.5,,3,3350,2,1200,17,13,9,33/4,2,metal,SRT,,39/2,9/6
+206A (C18 eng),"Bell Helicopter, A Textron Company",,114,130,1,315,,23,74.5,,3,3350,1,1200,17,9,4,33/4,2,metal,SRT,,39/2,9/6
+205A-1,"Bell Helicopter, A Textron Company",110,78,110,2,276,,80,215,398,10,10500,5,5000,15,10,6,48/0,2,metal,SRT,9/2,57/1,11/6
+204B,"Bell Helicopter, A Textron Company",,110,120,3,226,,70,242,,8,,5,4000,16,14,2,44/0,2,metal,SRT,,57/0,14/6
+47J2,"Bell Helicopter, A Textron Company",91,81,91,950,226,3/18,17,47.5,,3,,2,,12,9,4,37/2,2,metal,SRT,,43/4,9/3
+47J2A,"Bell Helicopter, A Textron Company",91,79,91,870,224,3/18,19,47.5,,3,,2,,11,8,3,37/2,2,metal,SRT,9/6,43/7,9/3
+"47G5,5A","Bell Helicopter, A Textron Company",91,75,91,860,209,,15,57,,3,2850,2,1000,10,6,1,37/2,2,metal,SRT,9/6,43/7,9/4
+"47G4,4A","Bell Helicopter, A Textron Company",91,73,91,800,257,4/18,17,,,3,2950,2,1000,11,8,4,37/2,2,metal,SRT,9/6,43/3,9/4
+4G3B1 270 hp.,"Bell Helicopter, A Textron Company",91,75,91,880,237,4/20,18,57,,3,2950,2,1000,17,16,11,37/2,2,metal,SRT,9/6,43/3,9/4
+4G3B2 280 hp.,"Bell Helicopter, A Textron Company",91,77,91,990,208,3/42,18,57,,3,2950,2,1000,18,17,12,37/2,2,metal,SRT,9/6,43/7,9/4
+4G3B2A 280 hp.,"Bell Helicopter, A Textron Company",98,70,98,610,192,,19,57,,3,3200,2,1000,15,,3,37/2,2,metal,SRT,9/6,43/7,9/4
+47G2,"Bell Helicopter, A Textron Company",91,70,91,805,207,,14,41,,2,,2,1000,12,11,7,35/1,2,W or M,SRT,,41/5,9/4
+47G2A,"Bell Helicopter, A Textron Company",91,75,91,630,176,3/18,16,41,,3,,2,1000,9,4,3,37/0,2,metal,SRT,,43/7,9/3
+47G2A1,"Bell Helicopter, A Textron Company",91,74,91,625,,,16,57,,3,,2,1000,13,4,2,37/0,2,metal,SRT,,44/8,9/3
+480,"Enstrom Helicopter Corporation, USA",140,131,140,1,440,4.7,,90,,,2850,2,,13,10,7,32/0,3,metal,F/Artic,5/9,29/8,8/5
+280 FX,"Enstrom Helicopter Corporation, USA",102,96,102,1,261,3/30,,40,55,2,2600,2,,12,13,9,32/0,3,metal,F/Artic,7/4,27/8,9/2
+F28F Falcon,"Enstrom Helicopter Corporation, USA",97,83,97,1,229,3/36,14.6,40,53,2,2600,2,1000,12,13,9,32/0,3,metal,F/Artic,7/4,29/4,9/2
+F28C-2,"Enstrom Helicopter Corporation, USA",93,74,97,1,235,3/42,13.3,40,,2,2600,2,1000,12,10,,32/0,3,metal,F/Artic,7/4,30/4,9/2
+F28C,"Enstrom Helicopter Corporation, USA",93,74,97,1,235,3/42,13/3,40,53,2,2600,2,1000,12,10,8,32/0,3,metal,F/Artic,7/9,29/4,9/2
+F28A,"Enstrom Helicopter Corporation, USA",91,83,97,950,185,3/24,13,30,,2,2150,1,700,10,6,2,32/0,3,metal,F/Artic,7/9,29/4,9/2
+F28,"Enstrom Helicopter Corporation, USA",91,83,97,950,185,3/24,13,30,,2,1950,1,,10,4,,32/0,3,metal,F/Artic,7/4,,9/5
+280F Shark,"Enstrom Helicopter Corporation, USA",102,88,102,1,241,3/30,14.6,40,53,2,2600,2,1000,12,13,9,32/0,3,metal,F/Artic,7/4,29/4,9/2
+280C Shark,"Enstrom Helicopter Corporation, USA",96,83,102,1,231,3/42,13.3,40,53,2,2600,2,1000,12,10,,32/0,3,metal,F/Artic,7/4,29/4,9/2
+280,"Enstrom Helicopter Corporation, USA",94,83,97,950,188,3/30,13.3,30,,2,2150,1,700,10,6,,32/0,3,metal,F/Artic,7/9,23/3,9/2
+EC 135,Eurocopter,139,122,150,2,340,3/39,61,989lb,193lb,6,6400,3,2789,17,9,5,39/9,4,comp,BMR,8/7,39/9,11/0
+SA 365N,Eurocopter,153,140,165,2,477,4/24,95,301,349,8,8487,4,3748,15,3,3,39/2,4,comp,starflex,10/6,44/2,12/2
+SA 365N1,Eurocopter,159,141,170,2,487,4/45,,,,9,,5,3527,19,14,11,39/2,4,comp,starflex,10/6,44/2,13/2
+SA 365N2,Eurocopter,158,143,165,2,491,4/5,75,300,47,9,9369,5,,18,12,10,39/2,4,comp,starflex,10/6,45/1,13/3
+SA 365N3,Eurocopter,157,152,165,2,467,4/4,71,300,47,9,9479,5,9479,18,15,12,39/2,4,comp,starflex,10/6,45/1,13/3
+SA 365C,Eurocopter,148,130,170,2,246,3/0,94,169,226,7,,4,3000,16,7,3,38/4,4,comp,starflex,7/4,43/8,11/5
+SA 360C,Eurocopter,146,133,170,1,354,3/42,65,169,226,6,6615,4,2866,14,8,6,37/8,4,comp,F/Artic,7/4,43/4,11/6
+BK117 A-3,Eurocopter,,135,150,2,270,3.0,63,158,130,7,7055,4,2205,15,10,8,36/1,4,fiber,rigid,8/2,42/8,12/7
+BK117,Eurocopter,148,139,150,2,256,3/0,,160,261,6,,4,,17,11,9,36/1,4,fiber,rigid,8/2,42/8,12/7
+BK117 C-1,Eurocopter,133,125,140,2,292,3/1,69,184,237,7,7 716,4,,18,13,13,36/9,4,fiber,hingeles,8/2,42/6,11/2
+BO 105CBS,Eurocopter,,131,145,2,314,3/36,53,150,104,6,,3,1984,17,9,6,32/3,4,fiber,rigid,8/3,38/11,9/10
+BO 105CB,Eurocopter,,131,145,2,314,3/36,53,150,104,6,,3,1984,17,9,6,32/3,4,fiber,rigid,8/3,38/11,9/10
+BO 105C,Eurocopter,145,124,145,1,310,,54,150,,5,,3,1980,17,9,6,32/3,4,fiber,rigid,8/3,38/11,12/6
+AS 355F,Eurocopter,127,117,147,2,350,4/43,58,193,,5,5510,3,2300,16,7,8,35/1,3,comp,starflex,8/4,42/8,10/4
+AS 355F-1,Eurocopter,122,110,150,1,387,,,,193,5,5511,3,2300,13,8,6,35/1,3,comp,starflex,8/4,42/5,10/4
+AS355F-2,Eurocopter,122,110,150,1,387,4/36,,193,,6,5732,3,2500,11,7,5,35/1,3,comp,starflex,8/4,42/5,10/4
+AS355E,Eurocopter,130,119,147,2,326,5/12,58,190,,5,5070,3,2000,13,7,4,35/1,3,comp,starflex,8/4,42/8,10/4
+AS355 N,Eurocopter,120,116,150,1,385,4/45,56,193,,6,5732,3,2500,20,20,19,35/7,3,comp,starflex,10/0,42/5,10/3
+AS 350D,Eurocopter,125,108,147,2,417,3/48,38,143,,4,4630,2,2000,15,9,6,35/1,3,comp,starflex,8/4,42/8,10/8
+AS 350B,Eurocopter,125,121,147,2,378,3/06,40,143,,4,4630,2,2000,16,10,7,35/1,3,comp,starflex,8/4,42/8,10/4
+AS 350 B2,Eurocopter,133,122,155,2,360,4/30,47,143,,5,4960,3,2557,15,10,8,35/1,3,comp,starflex,8/4,42/8,10/4
+AS 350 B3,Eurocopter,140,121,155,2,357,3/58,49,143,,5,4960,3,3086,17,13,11,35/1,3,comp,starflex,8/4,42/8,10/4
+SA 341G,Eurocopter,,142,168,1,342,3/45,44,120,,4,,2,1540,15,9,7,35/6,3,comp,F/Artic,,39/4,10/6
+EC 120B,Eurocopter,123,103,150,1,395,4/18,192 lb.,109,21,4,3968,2,1543,18,10,8,32/9,3,comp,spherflx,8/5,37/9,10/10
+AS 332L,Eurocopter,151,140,160,2,399,4/24,157,536,970,18,19840,9,9920,16,10,8,51/1,4,comp,F/Artic,12/5,61/4,16/1
+AS 332C,Eurocopter,151,140,160,2,348,3/18,157,408,842,18,19840,9,9920,16,10,8,51/1,4,comp,F/Artic,12/5,61/5,16/1
+SA 330J,Eurocopter,139,134,167,1,297,3/9,169,408,594,16,16535,8,7055,16,8,6,49/6,4,comp,F/Artic,9/10,59/9,16/10
+SA 319B,Eurocopter,111,109,118,886,340,4/23,48,146,220,5,,3,1800,13,10,6,36/3,3,metal,F/Artic,6/2,42/3,9/10
+SA 318C,Eurocopter,,97,110,1,374,,35,149,,4,,2,,11,5,3,33/6,3,metal,F/Artic,,39/5,9/2
+SE 3160,Eurocopter,,103,113,1,270,,60,146,,5,,2,1800,14,6,2,36/2,3,metal,F/Artic,,42/7,9/10
+SA 316B,Eurocopter,118,105,113,886,269,,3/0,59,146,5,same,3,1650,13,10,6,36/2,3,metal,F/Artic,,42/1,9/8
+SA 315B,Eurocopter,,103,113,1,,3/20,55,152,,4,5070,2,2500,18,17,15,36/2,3,metal,F/Artic,7/10,42/5,10/2
+FH-1100A,Hiller Aircraft Corp.,110,105,122,2,344,3/3,,,,3,2750,2,1250,19,13,8,35/2,2,metal,SRT,7/4,41/2,9/1
+FH-1100,Hiller Aircraft Corp.,110,105,110,2,344,3/18,21,64,,3,,1,1000,14,13,8,35/5,2,metal,SRT,7/3,41/4,9/2
+FH-1100,Hiller Aircraft Corp.,,,,,,,,,,3,,1,,12,11,5,,,,,,,
+UH-12ET (series) turbine,Hiller Aircraft Corp.,,78,83,2,3057,3/17,,46,83,3,,2,,14,11,9,35/5,2,metal,SRT,7/6,40/8,10/2
+UH-12E & E4,Hiller Aircraft Corp.,83,78,,933,150,4/01,,46,86,3,3100,2,1000,15,10,7,35/5,2,metal,SRT,7/6,40/8,10/2
+UH-12L4,Hiller Aircraft Corp.,,77,92,1,172,,,43,,3,3500,2,1000,13,6,,35/5,2,metal,SRT,7/6,40/8,10/1
+530F (369F),MD Helicopters Incorporated,135,130,152,2,213,2.2,,64,,3,3750,2,2186,16,14,12,27/4,5,,,6/6,32/1,8/7
+520N,MD Helicopters Incorporated,,128,152,,202,2.2,,64,,3,3850,2,2000,20,9,6,,5,,,6/6,32/1,9/7
+500E (369E),MD Helicopters Incorporated,139,,152,2,256,2.8,,64,,3,3550,1,2109,15,8,6,26/4,5,,,6/6,30/10,8/8
+500D/369D,MD Helicopters Incorporated,139,130,152,2,261,2/48,26,64,,3,3550,1,2190,15,8,8,26/6,5,metal,F/Artic,6/10,30/6,8/11
+500C/369HS,MD Helicopters Incorporated,130,125,130,2,301,3/24,32,64,,3,3000,1,1760,14,13,7,26/4,4,metal,F/Artic,6/8,30/4,8/6
+500/369,MD Helicopters Incorporated,130,117,130,2,322,3/36,22,64,,3,,1,1800,12,7,1,26/4,4,metal,F/Artic,6/10,30/4,8/6
+R44,Robinson Helicopter,,113,,1,400,,,31.6,18.3,2,,1,,,6,5,33/0,2,,,7/2,,10/8
+"R-22 Alpha,Beta",Robinson Helicopter,103,96,103,1,209,2.2,7,19,,1,,824,,14,7,5,25/2,2,metal,,6/4,28/9,8/9
+R-22-HP,Robinson Helicopter,103,96,103,1,209,2.2,13.0,19,,1,,814,,14,8,6,25/2,2,metal,,6/4,28/9,8/9
+R22 Mariner,Robinson Helicopter,,89,95,1,174,,,19.2,29.7,1,,861,,14,6,,25/2,2,,,,28/9,8/9
+R22,Robinson Helicopter,103,94,103,1,209,2/30,8,19,,1,1300,796,,14,6,4,25/2,2,metal,SRT,,28/9,8/8
+330,Schweizer Aircraft,100,91,,,,,21.7,60,,2,2150,1,,,18,14,26/10,3,,,5/7,30/10,8/7
+300C/269C,Schweizer Aircraft,,86,95,,,3.8,,30,49,2,,1,,,11,9,26/10,3,metal,F/Artic,6/6,30/10,8/9
+300CB,Schweizer Aircraft,,85,94,,,4.5,,35,,2,,1,,,7,5,26/10,3,metal,F/Artic,6/6,30/10,8/9
+300/269B,Schweizer Aircraft,76,70,76,1,191,3/20,10.5,30,,2,,960,600,13,8,6,25/4,3,metal,F/Artic,6/6,28/11,8/3
+200/269A,Schweizer Aircraft,75,72,75,1,191,,10,25,,2,,910,,11,5,2,25/0,3,metal,F/Artic,6/6,28/5,8/0
+"S-76 Mark II,A",Sikorsky Aircraft,144,128,155,1,351,3.3,,277,382,10,,7,,15,5,2,44/0,4,comp,F/Artic,10/0,52/6,14/6
+S-76 Mark IIB,Sikorsky Aircraft,,145,155,2,,,,281,331,11,,7,,14,9,5,44/0,4,comp,F/Artic,10/0,52/6,14/6
+S-76 Spirit,Sikorsky Aircraft,155,145,155,1,403,,74,280,,10,10000,6,3300,15,6,3,44/0,4,comp,F/Artic,10/0,52/6,14/6
+S-76C+,Sikorsky Aircraft,155,155,155,2,385,,600 lb,,,12,,8,,13,6,2,,,,,8/0,52/6,11/8
