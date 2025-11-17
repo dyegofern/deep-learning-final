@@ -11,7 +11,7 @@ Key improvements:
 
 import tensorflow as tf
 import numpy as np
-from typing import Dict, Optional
+from typing import Dict, Optional, List, Tuple
 from tqdm import tqdm
 from scipy import stats as scipy_stats
 
